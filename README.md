@@ -3,14 +3,6 @@ The Power BI dashboard showcased in the provided file serves as a powerful tool 
 
 Steps Followed for creating the dashboard:
 
-> Extract Data
-> Transform Data 
-> Load Data 
-> Data modelling (Building Relationships)
-> DAX
-> Report Building with Visualization
-> Publish Report
-> Dashboard Creation
->
-> 
-> # Sales_Insights_Analysis
+> Extract Data > Transform Data > Load Data > Data modelling (Building Relationships)> DAX > Report Building with Visualization > Publish Report > Dashboard Creation
+
+# Sales_Insights_Analysis
